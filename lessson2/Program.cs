@@ -12,6 +12,7 @@ namespace lessson2
         {
             string Name, Pob, Dob, Email, Status, Sex, tell;
             
+
             Console.WriteLine("Gali magaca");
             Name = Console.ReadLine();
             Console.WriteLine(Name);
